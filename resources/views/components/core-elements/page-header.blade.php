@@ -2,7 +2,9 @@
     <div class="campl-wrap clearfix">
         <div class="campl-column12">
             <div class="campl-content-container">
-                <x-navigation.breadcrumb/>
+
+                {{ Breadcrumbs::render('login') }}
+
                 <x-in-page-component.title/>
             </div>
         </div>
