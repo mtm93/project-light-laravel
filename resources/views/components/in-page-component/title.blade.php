@@ -1,1 +1,1 @@
-<h1 class="campl-page-title">The Faculty of Modern &amp; Medieval Languages</h1>
+<h1 class="campl-page-title">{{ config('app.name', 'Laravel') }}</h1>
