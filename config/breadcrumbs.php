@@ -26,7 +26,7 @@ return [
     */
 
     // 'view' => 'breadcrumbs::bootstrap4',
-    'view' => 'breadcrumbs::breadcrumbs',
+    'view' => 'breadcrumbs::breadcrumb-view',
 
     /*
     |--------------------------------------------------------------------------
